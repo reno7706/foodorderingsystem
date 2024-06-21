@@ -1,0 +1,4 @@
+1936404564,2023-12-11 15:52:14,12.80,c12,Delivery,Tart,v1,W004,r3,completed,5.572304382,2023-12-11 15:47:46,9.80,c12,Dine In,Burger,v1,W001,-,completed,0.00
+1286,2023-12-06 16:03:18,9.80,c12,Dine In,Burger,v1,W001,-,completed,0.00
+1298,2023-12-06 16:39:42,4.50,c12,Dine In,Kompia,v2,C003,-,completed,0.00
+1281,2023-12-06 09:46:41,9.80,c10,Dine In,Burger,v1,W001,-,completed,0.00

@@ -1,0 +1,6 @@
+v1,western,8:00-18:00,western@gmail.com,0123456789,vendorpw1
+v2,chinese,8:00-18:00,chinese@gmail.com,0123456789,vendorpw2
+v3,japanese,8:00-18:00,japanese@gmail.com,0123456789,vendorpw3
+v4,korean,8:00-18:00,korean@gmail.com,0123456789,vendorpw4
+v5,fast,8:00-18:00,fast@gmail.com,0123456789,vendorpw5
+v6,mamak,8:00-18:00,mamak@gmail.com,0123456789,vendorpw6

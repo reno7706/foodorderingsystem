@@ -1,0 +1,4 @@
+r1,kent,Male,32,@kh,123331
+r2,kamuel,Male,34,@kh2,3734792
+r3,kelvin,male,45,dfg,3242
+

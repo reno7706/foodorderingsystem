@@ -1,0 +1,25 @@
+1270,2023-11-26 15:16:23,74.5,c12,Dine In,burger4,completed,v1,0,669,-,-
+1272,2023-12-05 19:18:18,8.8,c12,Take Away,kueh tiao goreng,pending,v2,0,C002,-,-
+1273,2023-12-05 19:18:44,5.8,c12,Dine In,Roti Pisang,pending,v6,0,R006,-,-
+1285,2023-12-06 10:14:15,12.8,c12,Delivery,Tart,completed,v1,-2,W004,r1,kampung
+1288,2023-12-06 16:03:25,15.8,c12,Delivery,Spaghetti,completed,v1,-2,W002,r1,kampung
+1289,2023-12-06 16:06:07,9.8,c8,Dine In,Burger,completed,v1,0,W001,-,-
+1290,2023-12-06 16:07:09,9.8,c12,Dine In,Burger,completed,v1,0,W001,-,-
+1291,2023-12-06 16:19:46,5.8,c12,Dine In,Roti Pisang,completed,v6,0,R006,-,-
+1292,2023-12-06 16:23:13,5.8,c12,Take Away,Roti Pisang,completed,v6,0,R006,-,-
+1293,2023-12-06 16:28:42,4.8,c12,Dine In,Roti Planta,completed,v6,0,R005,-,-
+1295,2023-12-06 16:35:22,5.8,c12,Dine In,Roti Pisang,completed,v6,0,R006,-,-
+1296,2023-12-06 16:36:52,5.8,c12,Dine In,Roti Pisang,completed,v6,0,R006,-,-
+1299,2023-12-06 16:42:57,5.8,c12,Delivery,Roti Pisang,completed,v6,-1,R006,-,kampung
+1300,2023-12-06 16:45:35,9.8,c12,Delivery,Burger,completed,v1,-2,W001,-,kampung
+1925857720,2023-12-11 12:51:47,4.5,c12,Take Away,Kampua,pending,v2,0,C001,-,-
+589293101,2023-12-12 17:37:14,9.8,c12,Dine In,Burger,completed,v1,0,W001,-,-
+58234101,2023-12-12 17:39:14,9.8,c12,Dine In,Burger,accept,v1,0,W001,-,-
+406954129,2023-12-12 19:05:08,4.8,c12,Dine In,Roti Planta,pending,v6,0,R005,-,-
+466212653,2023-12-12 19:05:16,15.8,c12,Take Away,Spaghetti,declined,v1,0,W002,-,-
+457499955,2023-12-12 19:05:37,12.8,c12,Delivery,Tart,Ready,v1,1,W004,-,kampung
+2018584166,2023-12-12 19:06:11,12.8,c12,Dine In,Tart,declined,v1,0,W004,-,-
+1551498851,2023-12-12 19:06:36,9.8,c12,Delivery,Burger,Ready,v1,0,W001,-,kampung
+874271328,2023-12-13 10:40:54,6.60,c12,Dine In,Curry,pending,v2,0,C005,-,-
+109075033,2023-12-13 10:42:58,15.80,c12,Dine In,Spaghetti,pending,v1,0,W002,-,-
+664136490,2024-05-12 16:09:17,15.80,c10,Take Away,Spaghetti,pending,v1,0,W002,-,-

@@ -1,0 +1,16 @@
+v6,R001,Roti Telur,4.8
+v6,R003,Roti Bawang,6.8
+v6,R004,Roti Kosong,3.8
+v6,R005,Roti Planta,4.8
+v6,R006,Roti Pisang,5.8
+v1,W001,Burger,9.8
+v1,W002,Spaghetti,15.8
+v2,C001,Kampua,4.5
+v2,C002,kueh tiao goreng,8.8
+v2,C003,Kompia,4.5
+v2,C004,Laksa,5.5
+v2,C005,Curry,6.6
+v6,R007,Cheese Naan,4.8
+v3,J001,Curry Rice,10.8
+v3,J002,Sashimi,15.8
+v1,W004,Tart,12.8
